@@ -3,3 +3,5 @@
 # Link tải: https://archive.org/details/revertsv
 
 # đảm bảo 100% link gốc chính chủ
+
+sudo docker compose up
